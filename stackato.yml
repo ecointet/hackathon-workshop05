@@ -1,0 +1,5 @@
+app-dir: .
+disk_quota: 2048
+memory: 256
+name: workshop05
+command: node app.js
